@@ -9,7 +9,7 @@
 
 > ####   <a href="https://e-qanun.az/framework/18343"> `MS Word 2019 Test `</a>
 
-> ####   <a href="https://e-qanun.az/framework/18343"> `Təhsil haqqında Qanun `</a>
+> ####   <a href="https://e-qanun.az/framework/18343"> `😔rt `</a>
 
 > ####   <a href="https://e-qanun.az/framework/18343"> `Təhsil haqqında Qanun `</a>
 
