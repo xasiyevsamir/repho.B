@@ -9,8 +9,6 @@
 
 </details>
 
-<br/><br/>
-
  <details><summary> <b> Test Linkləri </b></summary><br/>
 
 > ####   <a href="https://github.com/xasiyevsamir/repho.B/blob/main/Dersler/Ms%20Word%202019%20Test.pdf">`Ms Word 2019 Test`</a>
