@@ -7,6 +7,8 @@
 
 > ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScOkklji7waARCNhgbV3eq0MjA7NmbRYtAEW2_fMFQJ8wYNEw/viewform"> `UBTR,LABORANT,KİTABXANA,TƏSƏRRÜFAT MÜDİRLƏRİ üçün İKT sınağı`</a>
 
+<br/><br/>
+
 </details>
 
  <details><summary> <b> Test Linkləri </b></summary><br/>
