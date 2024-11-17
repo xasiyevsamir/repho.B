@@ -7,6 +7,8 @@
 
 > ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScOkklji7waARCNhgbV3eq0MjA7NmbRYtAEW2_fMFQJ8wYNEw/viewform"> `UBTR,LABORANT,KİTABXANA,TƏSƏRRÜFAT MÜDİRLƏRİ üçün İKT sınağı`</a>
 
+> ####   <a href="https://github.com/xasiyevsamir/repho.B/blob/main/Dersler/MS%20Word%202019%20M%C9%99tin%20Prosessoru.pdf"> `MS Word 2019 Mətin Prosessoru`</a>
+
 <br/><br/>
 
 </details>
