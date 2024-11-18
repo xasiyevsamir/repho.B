@@ -20,5 +20,8 @@
  <details><summary> <b>Video Ders </b></summary><br/>
 
 > ####   <a href="https://www.youtube.com/watch?v=1_IrnzAUrqA"> `Təhsil haqqında Qanun Video 1`</a>
+> ####   <a href="https://youtu.be/1_IrnzAUrqA?si=DWU63jfJmZGXVh8R"> `Təhsil haqqında Qanun Video 2`</a>
+> ####   <a href="https://youtu.be/4md9rDir3UM?si=9Ozx_aIZI0-HKdA2"> `Təhsil haqqında Qanun Video 3`</a>
+> ####   <a href="https://youtu.be/bpu545rsMjQ?si=00wNKuv-JSD6QR64"> `Təhsil haqqında Qanun Video 4`</a>
 
 </details>
