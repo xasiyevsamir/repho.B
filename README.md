@@ -5,6 +5,8 @@
 
 > ####   <a href="https://e-qanun.az/framework/3292"> `Uşaq hüquqları haqqında `</a>
 
+> ####   <a href="https://e-qanun.az/framework/3935"> `YANĞIN HAQQINDA QANUN `</a>
+
 
 
 <br/><br/>
