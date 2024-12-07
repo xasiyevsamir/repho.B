@@ -30,6 +30,6 @@
 > ####   <a href="https://www.youtube.com/watch?v=shu9X4lpR8I"> `labo.UBTR təhsil qanunu 5`</a>
 > ####   <a href="https://www.youtube.com/watch?v=mMsVuvAHsyQ"> `Uşaq hüquqları haqqında Video 1`</a>
 > ####   <a href="https://www.youtube.com/watch?v=YvG9y-2bzLk"> `Uşaq hüquqları haqqında Video 2`</a>
-
+> ####   <a href="https://www.youtube.com/watch?v=2HhkbcVp1Vo"> `YANĞIN HAQQINDA QANUN Video 1`</a>
 
 </details>
