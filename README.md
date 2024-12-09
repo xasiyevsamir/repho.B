@@ -33,3 +33,14 @@
 > ####   <a href="https://www.youtube.com/watch?v=2HhkbcVp1Vo"> `YANĞIN HAQQINDA QANUN Video 1`</a>
 
 </details>
+
+### Yeni slayd yaratma ctrl +M
+### Emri legv etmek ctrl + Z
+### Legv olunmus emeliyyati berpa etmek ctrl + Y
+### Slayd numayisini dayandirmaq ucun esc
+### F5-birinci sehifeden baslayaraq slaydi numayis etdir
+### Shift + F5   cari sehifeden baslayaraq numayis eletdir
+### Word ad genislenmesi docx
+### Excel xlsx
+### Powerpoint pptx
+### pp qeydlerimiz
