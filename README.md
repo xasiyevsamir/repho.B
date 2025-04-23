@@ -34,6 +34,7 @@
 > ####   <a href="https://www.youtube.com/watch?v=EK58VCHt_Kc"> `Infor.laborantı sual cavab`</a>
 > ####   <a href="https://www.youtube.com/watch?v=dtACzwXxHEQ"> `Kimya.laborantı sual cavab`</a>
 > ####   <a href="https://www.youtube.com/watch?v=5d88gyVAzz8"> `Laboranta aid ilk dərsin sual-cavabı`</a>
+> ####   <a href="https://www.youtube.com/watch?v=BwUWR7hqX6g"> `Yanğın haq.qanun`</a>
 
 </details>
 
