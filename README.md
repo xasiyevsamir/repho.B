@@ -19,6 +19,50 @@
 
 > ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScOkklji7waARCNhgbV3eq0MjA7NmbRYtAEW2_fMFQJ8wYNEw/viewform"> `UBTR,LABORANT,KİTABXANA,TƏSƏRRÜFAT MÜDİRLƏRİ üçün İKT sınağı`</a>
 
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4ZAU_uFsyoVzlaIxZtaYjpm3A4pnutaRxkHOTv_rftCTrSA/viewform"> `Təhsil Qanunu 1`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScaAP8vvRQmv-3pLl68-zQu6-7vFTKQYgg7xnTxQn8loP_I4Q/viewform"> `WORD SINAQ`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsIpJPGFkJCBD_QQmSjUWJUM36mO9m_oo9G9A2lqx58igQFg/viewform"> `Məntik Sınağ PDF`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQNdxL96_83cPhzG1YpKRWLqR0dJS98GNgR3MgjuuwzLFeA/viewform"> `Təhsil Qanunu 2`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3ze-_6uj1BZVjRtrmI0_RYkP3FCc-lSVzOlc4eDcYZlCKIw/viewform"> `Yanğın Haqqında`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScw7uMS0SRYLXVhyDdM5J7F_CQzjMxXIedsiNTtyh2hT2g9og/viewform"> `Lobarant Ümumi -sınaq`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc96zsWc_uXJftX5LH6mP0akU-NdskGM79KCawS4YyBGzGwvw/viewform"> `Word Ümumi -sınaq`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdG5xJgu31sXzGA_9Y4Iohb1kOP63JI06_dwcnK07W4rc81oA/viewform"> `Ümumi - Məntik`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWZigLBu_1wOP67JGRaBZhLiUvfYvEin0imG8jQaej43iHRQ/viewform"> `Tahsil-Qanunu.3`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScqzcpBSSSevy4guhHZ7Ej8WsUv4Na8eWuXLzVhcjTqw5JOTA/viewform"> `Ümumi - ikt sinag`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNxzO4Qy2Q2Bv3pKXUeRVGx0mb_cwGY8PwBOP3kkLSnNVY8Q/viewform"> `Tahsil-Qanunu.4`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScw7uMS0SRYLXVhyDdM5J7F_CQzjMxXIedsiNTtyh2hT2g9og/viewform"> `Lobarant Ümumi -sınaq`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScqzcpBSSSevy4guhHZ7Ej8WsUv4Na8eWuXLzVhcjTqw5JOTA/viewform"> `Ümumi - ikt sinag`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdG5xJgu31sXzGA_9Y4Iohb1kOP63JI06_dwcnK07W4rc81oA/viewform"> `Ümumi - Məntik`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc96zsWc_uXJftX5LH6mP0akU-NdskGM79KCawS4YyBGzGwvw/viewform"> `Word Ümumi -sınaq`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNxzO4Qy2Q2Bv3pKXUeRVGx0mb_cwGY8PwBOP3kkLSnNVY8Q/viewform"> `Tahsil-Qanunu.5`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWZigLBu_1wOP67JGRaBZhLiUvfYvEin0imG8jQaej43iHRQ/viewform"> `Tahsil-Qanunu.6`</a>
+
+> ####   <a href="https://docs.google.com/forms/d/e/1FAIpQLScqzcpBSSSevy4guhHZ7Ej8WsUv4Na8eWuXLzVhcjTqw5JOTA/viewform"> `Ümumi - ikt sinag`</a>
+
+
+
+
+
+
+
+
+
 </details>
 
  <details><summary> <b>Video Ders </b></summary><br/>
