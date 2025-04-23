@@ -39,8 +39,15 @@
 > ####   <a href="https://www.youtube.com/watch?v=mqbKinpfc5k"> `14.laborant ixtisas sual cavab`</a>
 > ####   <a href="https://www.youtube.com/watch?v=paBZcGDFav8"> `15.laborant iq. sual cavab 1ci hissə`</a>
 > ####   <a href="https://www.youtube.com/watch?v=uUwTgbV_HyQ"> `16.laborant iq. sual cavab 2ci hissə`</a>
+> ####   <a href="https://www.youtube.com/watch?v=6lzIY0dZu0s"> `17.laborantın vəzifələri`</a>
+> ####   <a href="https://www.youtube.com/watch?v=B0SzxGGwAMc"> `18.labor.sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=t988_XVLdEc"> `19.laborant sual cavab`</a>
+
 
 </details>
+
+<br/><br/><br/><br/>
+---
 
 ### Yeni slayd yaratma ctrl +M
 ### Emri legv etmek ctrl + Z
@@ -52,3 +59,45 @@
 ### Excel xlsx
 ### Powerpoint pptx
 ### pp qeydlerimiz
+
+<br/><br/><br/><br/>
+
+---
+
+Məktəbdə fizika laboratoriyasında adətən şagirdlərin müxtəlif təcrübələr aparması üçün əsas vəsaitlər və cihazlar olur. Bu avadanlıqlar mövzuya görə dəyişsə də, ümumi olaraq aşağıdakılar olur:
+
+ 1. *Mekanika avadanlıqları*
+- Dinamometrlər (qüvvə ölçmək üçün)
+- Tənzimlənən təzyiqli arabalar (düz xətt üzrə hərəkət üçün)
+- Sürtünmə təcrübə dəstləri
+- Ştanq və çarx dəstləri
+- Metr, xətkeş, saniyəölçən
+
+ 2. *Optika avadanlıqları*
+- Linzalar (yaxınlaşdırıcı və uzaqlaşdırıcı)
+- Prizmalər
+- Optik dəzgah
+- Ayna və obyektivlər
+- İşıq mənbələri və diafraqmalar
+
+3. *Termodinamika avadanlıqları*
+- Termometrlər (civəli, spirtli, rəqəmsal)
+- Spirit lampası
+- İstilik ölçən cihazlar (kalorimetr)
+- Bimetalik lentlər
+4. *Elektrik və maqnetizm*
+- Voltmetr və ampermetr
+- Reostat və rezistorlar
+- Transformatorlar
+- Sadə dövrə qurmaq üçün naqillər və lampalar
+- Elektromaqnitlər
+- Galvanometr
+
+ 5. *Dalğalar və səs*
+- Tuning çəngəlləri
+- Səs dalğası generatorları
+- Rezonator borular
+
+Əlavə olaraq, laboratoriyada təhlükəsizlik vasitələri (məsələn, qoruyucu eynəklər, əlcəklər, yanğın söndürən cihaz) da olur.
+
+<br/><br/><br/><br/>
