@@ -23,20 +23,21 @@
 
  <details><summary> <b>Video Ders </b></summary><br/>
 
-> ####   <a href="https://www.youtube.com/watch?v=1_IrnzAUrqA"> `Təhsil haqqında Qanun Video 1`</a>
-> ####   <a href="https://youtu.be/1_IrnzAUrqA?si=DWU63jfJmZGXVh8R"> `Təhsil haqqında Qanun Video 2`</a>
-> ####   <a href="https://youtu.be/4md9rDir3UM?si=9Ozx_aIZI0-HKdA2"> `Təhsil haqqında Qanun Video 3`</a>
-> ####   <a href="https://youtu.be/bpu545rsMjQ?si=00wNKuv-JSD6QR64"> `Təhsil haqqında Qanun Video 4`</a>
-> ####   <a href="https://www.youtube.com/watch?v=shu9X4lpR8I"> `labo.UBTR təhsil qanunu 5`</a>
-> ####   <a href="https://www.youtube.com/watch?v=mMsVuvAHsyQ"> `Uşaq hüquqları haqqında Video 1`</a>
-> ####   <a href="https://www.youtube.com/watch?v=YvG9y-2bzLk"> `Uşaq hüquqları haqqında Video 2`</a>
-> ####   <a href="https://www.youtube.com/watch?v=2HhkbcVp1Vo"> `YANĞIN HAQQINDA QANUN Video 1`</a>
-> ####   <a href="https://www.youtube.com/watch?v=EK58VCHt_Kc"> `Infor.laborantı sual cavab`</a>
-> ####   <a href="https://www.youtube.com/watch?v=dtACzwXxHEQ"> `Kimya.laborantı sual cavab`</a>
-> ####   <a href="https://www.youtube.com/watch?v=5d88gyVAzz8"> `Laboranta aid ilk dərsin sual-cavabı`</a>
-> ####   <a href="https://www.youtube.com/watch?v=BwUWR7hqX6g"> `Yanğın haq.qanun`</a>
-> ####   <a href="https://www.youtube.com/watch?v=t988_XVLdEc"> `laborant sual cavab`</a>
-> ####   <a href="https://www.youtube.com/watch?v=mqbKinpfc5k"> `laborant ixtisas sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=1_IrnzAUrqA"> `1.Təhsil haqqında Qanun Video 1`</a>
+> ####   <a href="https://youtu.be/1_IrnzAUrqA?si=DWU63jfJmZGXVh8R"> `2.Təhsil haqqında Qanun Video 2`</a>
+> ####   <a href="https://youtu.be/4md9rDir3UM?si=9Ozx_aIZI0-HKdA2"> `3.Təhsil haqqında Qanun Video 3`</a>
+> ####   <a href="https://youtu.be/bpu545rsMjQ?si=00wNKuv-JSD6QR64"> `4.Təhsil haqqında Qanun Video 4`</a>
+> ####   <a href="https://www.youtube.com/watch?v=shu9X4lpR8I"> `5.labo.UBTR təhsil qanunu 5`</a>
+> ####   <a href="https://www.youtube.com/watch?v=mMsVuvAHsyQ"> `6.Uşaq hüquqları haqqında Video 1`</a>
+> ####   <a href="https://www.youtube.com/watch?v=YvG9y-2bzLk"> `7.Uşaq hüquqları haqqında Video 2`</a>
+> ####   <a href="https://www.youtube.com/watch?v=2HhkbcVp1Vo"> `8.YANĞIN HAQQINDA QANUN Video 1`</a>
+> ####   <a href="https://www.youtube.com/watch?v=EK58VCHt_Kc"> `9.Infor.laborantı sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=dtACzwXxHEQ"> `10.Kimya.laborantı sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=5d88gyVAzz8"> `11.Laboranta aid ilk dərsin sual-cavabı`</a>
+> ####   <a href="https://www.youtube.com/watch?v=BwUWR7hqX6g"> `12.Yanğın haq.qanun`</a>
+> ####   <a href="https://www.youtube.com/watch?v=t988_XVLdEc"> `13.laborant sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=mqbKinpfc5k"> `14.laborant ixtisas sual cavab`</a>
+> ####   <a href="https://www.youtube.com/watch?v=uUwTgbV_HyQ"> `15.laborant iq. sual cavab 2ci hissə`</a>
 
 </details>
 
