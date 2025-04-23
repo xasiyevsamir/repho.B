@@ -37,7 +37,8 @@
 > ####   <a href="https://www.youtube.com/watch?v=BwUWR7hqX6g"> `12.Yanğın haq.qanun`</a>
 > ####   <a href="https://www.youtube.com/watch?v=t988_XVLdEc"> `13.laborant sual cavab`</a>
 > ####   <a href="https://www.youtube.com/watch?v=mqbKinpfc5k"> `14.laborant ixtisas sual cavab`</a>
-> ####   <a href="https://www.youtube.com/watch?v=uUwTgbV_HyQ"> `15.laborant iq. sual cavab 2ci hissə`</a>
+> ####   <a href="https://www.youtube.com/watch?v=paBZcGDFav8"> `15.laborant iq. sual cavab 1ci hissə`</a>
+> ####   <a href="https://www.youtube.com/watch?v=uUwTgbV_HyQ"> `16.laborant iq. sual cavab 2ci hissə`</a>
 
 </details>
 
