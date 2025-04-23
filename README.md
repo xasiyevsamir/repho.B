@@ -60,7 +60,147 @@
 ### Powerpoint pptx
 ### pp qeydlerimiz
 
+
+
 <br/><br/><br/><br/>
+
+---
+
+Məktəbdə komputer laborantı təhlükəsizliyi təmin etmək üçün bir neçə əsas addım atılmalıdır. Bunlar:
+
+1. *Elektrik Təhlükəsizliyi*: 
+   - Elektrik avadanlıqlarının düzgün quraşdırılması və izolyasiyasına diqqət yetirmək.
+   - Elektrik kəsmə cihazlarının və şnurunun vəziyyətini mütəmadi yoxlamaq.
+   - Kompüterlərin və digər avadanlıqların elektrik təchizatının təhlükəsiz olmasını təmin etmək.
+
+2. *Yanğın Təhlükəsizliyi*:
+   - Elektrik kabelləri və cihazların düzgün quraşdırılmasını təmin etmək ki, onlardan istilik və ya qısa qapanma baş verməsin.
+   - Yanğınsöndürən vasitələrin mövcudluğunu və işlək vəziyyətdə olduğunu yoxlamaq.
+   - Tələbələrə yanğın təhlükəsizliyi qaydalarını öyrətmək.
+
+3. *Erqonomik Təhlükəsizlik*:
+   - Kompüter masalarının və kresloların tənzimlənə bilən olması, tələbələrin düzgün oturuş vəziyyətində olmalarını təmin etmək.
+   - Göz yorğunluğunu azaltmaq üçün ekranın düzgün hündürlükdə yerləşdirilməsi və mütəmadi fasilələr verilməsi.
+
+4. *Kompyuter Virusları və Zərərli Proqramlardan Müdafiə*:
+   - Antivirüs proqramlarının quraşdırılması və müntəzəm olaraq yenilənməsi.
+   - Tələbələrin yalnız etibarlı və təhlükəsiz proqram təminatından istifadə etmələrini təmin etmək.
+
+5. *Fiziki Təhlükəsizlik*:
+   - Kompüterlərin və digər avadanlıqların fiziki təhlükəsizliyini təmin etmək. (Məsələn, avadanlıqların oğurlanmasının qarşısını almaq üçün kilidli otaqlar və ya məkanlar istifadə etmək).
+   - Kabel və naqillərin yerə yayılmaması və tələbələrin hərəkət etməsinə mane olmaması üçün düzgün qaydada yerləşdirilməsi.
+
+6. *Dərsliklər və Təlimatlar*:
+   - Kompüter laboratoriyasına daxil olan tələbələrə təhlükəsizlik qaydaları ilə bağlı təlimatlar vermək.
+   - Laboratoriyada təhlükəsizlik qaydalarına əməl etməyənləri xəbərdar etmək və müvafiq tədbirlər görmək.
+
+Bu addımlar məktəbdəki kompüter laborantının iş mühitində təhlükəsizliyi təmin etməyə kömək edəcək və tələbələrin həm fiziki, həm də kiber təhlükəsizliklərini qoruyacaqdır.
+
+---
+
+<br/><br/><br/><br/>
+
+---
+
+Məktəbdə komputer laborantının təhlükəsizliyi qorumaq üçün bir neçə vacib addım atması lazımdır. Bunlar aşağıdakılardır:
+
+1. *Komputer və avadanlıqların müntəzəm yoxlanılması*: Laborant, bütün komputerlərin və digər texniki avadanlıqların düzgün işlədiyinə əmin olmalıdır. Cihazların elektrik xətləri, kabelləri və digər hissələrinin təhlükəsizliyi yoxlanılmalıdır.
+
+2. *Elektrik təhlükəsizliyi*: Kompüterlərin elektrik təchizatını diqqətlə yoxlamaq vacibdir. Qısa qapanma və ya yanğına səbəb ola biləcək elektrik problemlərindən qaçmaq üçün bütün avadanlıq düzgün şəbəkəyə qoşulmalıdır.
+
+3. *Zərərli proqram təminatından qorunma*: Kompüterlərdə viruslardan, zərərli proqramlardan və digər kiber təhlükələrdən qorunmaq üçün antivirus proqramları və təhlükəsizlik sistemləri aktiv olmalıdır. Həmçinin şəbəkə təhlükəsizliyi təmin edilməlidir.
+
+4. *İstifadəçi hüquqlarının tənzimlənməsi*: Şagirdlər və müəllimlər yalnız özlərinə lazım olan proqram və məlumatlara giriş imkanı əldə etməlidir. Bu, istifadəçi hüquqlarının düzgün tənzimlənməsi ilə təmin edilir.
+
+5. *Erqonomik təhlükəsizlik*: Kompüter masalarının və stullarının düzgün yerləşdirilməsi, ekranın gözlərdən uyğun məsafədə olması və düzgün oturuş pozası şagirdlərin sağlamlığı üçün vacibdir.
+
+6. *Bərk disklərin və məlumatların qorunması*: Məlumatların ehtiyat nüsxələrinin alınması və şəxsi məlumatların qorunması təmin edilməlidir. Hər hansı bir məlumat itkisi və ya pozulması baş verməməsi üçün ehtiyat nüsxələr saxlanmalıdır.
+
+7. *Şagirdlərin təhlükəsizlik qaydaları haqqında maarifləndirilməsi*: Şagirdlərə internet təhlükəsizliyi və kompüter istifadəsi ilə bağlı qaydalar öyrədilməli, şübhəli saytlara daxil olmağın və qeyri-qanuni fəaliyyətlərin qarşısı alınmalıdır.
+
+8. *Fiziki təhlükəsizlik*: Kompüterlərin yerləşdiyi otağın fiziki təhlükəsizliyi də önəmlidir. İstifadəçilərin cihazlara heç bir şəkildə zərər verməməsi üçün müvafiq nəzarət təmin edilməlidir. 
+
+Bu tədbirlər, məktəbdəki kompüter laborantının iş mühitində təhlükəsizliyi təmin etmək və şagirdlərin texnologiyanı sağlam şəkildə istifadə etmələrini dəstəkləmək üçün vacibdir.
+
+---
+
+<br/><br/><br/><br/>
+
+
+--- 
+
+Kömpüterin elektrik naqilini yüksək gərginlikdən qorumaq üçün bir neçə üsul mövcuddur:
+
+1. *Gərginlikdən qoruma cihazları (Surge Protector)*: Bu cihazlar elektrik naqilindəki ani gərginlik dalğalarını (surge) udur və kompüterə zərər verməsinin qarşısını alır. Onlar, xüsusilə elektrik kəsintiləri və ya ildırım çaxması kimi vəziyyətlərdə faydalıdır.
+
+2. *UPS (Uninterruptible Power Supply)*: UPS, elektrik enerjisi kəsildikdə kompüterin işləməyə davam etməsini təmin edən bir cihazdır. Eyni zamanda, UPS cihazı, elektrikdəki gərginlik dalğalarına qarşı da qoruma təmin edir.
+
+3. *Stabilizatorlar (Voltage Regulators)*: Bu cihazlar, dəyişən gərginliyi müəyyən bir səviyyəyə gətirir və kompüterin bu stabil gərginliklə işləməsini təmin edir.
+
+4. *Elektrik naqilinin düzgün quraşdırılması*: Naqil sisteminin düzgün və təmiz quraşdırılması, gərginlikdən yaranan problemləri azaltmağa kömək edər. Məsələn, naqilin köhnəlməsi və ya zədələnməsi bu cür problemlərə yol aça bilər.
+
+Bu üsullardan istifadə etməklə, kompüterinizi elektrik gərginliyindən qorumaq mümkündür.
+
+---
+
+<br/><br/><br/><br/>
+
+--- 
+
+Naqil alışarsa, yəni elektrik naqilində yanğın baş verərsə, öncə təhlükəsizlik tədbirlərinə riayət etmək çox vacibdir. Elektrik yanğınlarını söndürmək üçün bunları nəzərə almalısınız:
+
+1. *Elektrik enerjisini kəsmək*: Ən önəmli addım, elektrik enerjisini dərhal kəsməkdir. Bu, elektrik cərəyanının yanğını daha da artırmasının qarşısını alacaq.
+  
+2. *Yanğın söndürən cihazlardan istifadə: Elektrik yanğınları üçün xüsusi olaraq **Class C* yanğınlarına uyğun yanğın söndürənlər (electrical fire extinguisher) istifadə edilməlidir. Bu tip yanğın söndürənlər, elektriklə əlaqəli yanğınları daha effektiv şəkildə söndürə bilir.
+
+3. *Quru qum və ya sodyum bikarbonat (soda)*: Elektrik yanğınlarını söndürmək üçün təbii maddələr də istifadə edilə bilər, məsələn, quru qum və ya soda (bikarbonat). Lakin, bu maddələri istifadə etməzdən əvvəl elektrik cərəyanını kəsmək çox vacibdir.
+
+4. *Su istifadə etməmək*: Elektrik yanğınına su ilə müdaxilə etmək olduqca təhlükəlidir, çünki su elektrik cərəyanını keçirə bilər və şiddətli elektrik şoklarına səbəb ola bilər.
+
+Hər zaman təhlükəsizliyə diqqət yetirin və yanğın söndürənə, təcili yardımı çağırın.
+
+--- 
+
+<br/><br/><br/><br/>
+
+---
+
+Paltara yod ləkəsi düşdükdə, onu təmizləmək üçün bir neçə üsuldan istifadə edə bilərsiniz:
+
+1. *Süd və sabun*:
+   - Ləkəni dərhal soyuq su ilə yuyun.
+   - Sonra ləkə olan hissəyə bir az sabun (yüngül paltar sabunu) və isti süd tökün.
+   - Ləkəni bir neçə dəqiqə isladın, sonra yumşaq şəkildə ovuşdura bilərsiniz.
+
+2. *Sirkə və su qarışığı*:
+   - Bir çay qaşığı ağ sirkəni bir stəkan su ilə qarışdırın.
+   - Bu qarışığı ləkəyə tətbiq edin və bir neçə dəqiqə gözləyin.
+   - Sonra paltarı soyuq su ilə yuyun.
+
+3. *Qida soda (bikarbonat)*:
+   - Ləkənin üzərinə bir az soda səpin və üzərinə bir neçə damla su əlavə edin.
+   - Soda və su qarışığının ləkəni udmasına imkan verin, sonra paltarı yuyun.
+
+4. *Ləkə təmizləyici vasitələr*:
+   - Ləkə təmizləyiciləri xüsusi olaraq yod ləkələrini çıxarmağa kömək edə bilər. Etiketdəki göstərişlərə əməl edərək istifadə edin.
+
+Hər hansı bir üsuldan istifadə etmədən əvvəl paltarın görünməyən hissəsində kiçik bir yerdə sınaq keçirməyiniz tövsiyə olunur.
+
+--- 
+
+<br/><br/><br/><br/>
+
+--- 
+
+Su ilə kükürd turşusunun (H₂SO₄) qarışdırılması çox təhlükəlidir və bu reaksiyanı etməmək lazımdır. Su və H₂SO₄ qarışdırıldıqda böyük istilik əmələ gəlir. Bu istilik nəticəsində su buxarlaşır və bu da turşunun sıçramasına və təhlükəli vəziyyətlərə səbəb ola bilər. Ayrıca, kükürd turşusu çox korroziyaya səbəb olduğu üçün dərininə və gözə ciddi ziyan vuracaq.
+
+Əgər H₂SO₄ ilə suyu qarışdırmaq lazım gələrsə, həmişə turşunu suya əlavə etmək lazımdır, suyu turşuya əlavə etmək yox. Bu şəkildə əlavə olunan suyun çox sürətli qızmasının qarşısı alınır və təhlükəsizlik artır. Buna diqqət yetirmək vacibdir.
+
+
+---
+
+<br/><br/><br/><br/>
+
 
 ---
 
@@ -100,4 +240,4 @@ Məktəbdə fizika laboratoriyasında adətən şagirdlərin müxtəlif təcrüb
 
 Əlavə olaraq, laboratoriyada təhlükəsizlik vasitələri (məsələn, qoruyucu eynəklər, əlcəklər, yanğın söndürən cihaz) da olur.
 
-<br/><br/><br/><br/>
+---
